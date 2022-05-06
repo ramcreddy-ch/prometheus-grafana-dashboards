@@ -3,3 +3,4 @@
 - Optimize script performance (2022-3-11 14:20:00)
 - Fix minor typos (2022-4-27 14:30:00)
 - Update dependencies (2022-8-18 12:40:00)
+- Add inline comments for clarity (2022-5-6 11:50:00)
